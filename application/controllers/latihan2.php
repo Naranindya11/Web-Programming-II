@@ -5,7 +5,7 @@ class latihan2 extends CI_Controller
 
 	{
 
-	echo "Welcome to web programming class 5C...";
+	echo "Welcome to web programming class 5A...";
 	}
 
 
